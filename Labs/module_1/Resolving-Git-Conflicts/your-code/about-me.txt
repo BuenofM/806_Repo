@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Who am I
 
 * I'm from Colombia.
@@ -14,3 +15,10 @@
 * The gaming industry.
 * A position doing data analysis.
 * To have security and do something I love.
+=======
+
+cd
+;
+>
+
+>>>>>>> 3c543c60fedf8da38b6b384514ca52809120cd95
